@@ -1,2 +1,2 @@
-admin_token='1184615268'
-bot_token='7015161954:AAFMXlJOPV7CUG6exmOB69TOtkZ9LFyXLX0'
+admin_token='admin_tg_token'
+bot_token='your_bot_token'
